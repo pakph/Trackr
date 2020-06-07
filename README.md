@@ -1,2 +1,2 @@
 # Trackr
-a diabetes tracker (WIP)
+Calculate your carb intake, blood glucose levels, and blood pressure with this diabetes trackr.
